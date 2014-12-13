@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   -L/home/guido/local/lib  CMakeFiles/infra.dir/main.cpp.o  -o CMakeFiles/CMakeRelink.dir/infra -rdynamic -Wl,-rpath,"\$ORIGIN/../lib" 

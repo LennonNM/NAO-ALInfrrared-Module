@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   -L/home/guido/local/lib  CMakeFiles/test_infra.dir/test.cpp.o  -o sdk/bin/test_infra -rdynamic 
